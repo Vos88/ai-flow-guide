@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: '/ai-flow-guide/', // <-- THIS MUST BE EXACT
+  base: '/ai-flow-guide/',  // correct base path matching your repo name
   server: {
     host: "::",
     port: 8080,
@@ -19,3 +19,4 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
+
