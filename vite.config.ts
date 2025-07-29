@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: '/ai-flow-explorer-guide/', // <-- THIS MUST BE EXACT
+  base: '/ai-flow-guide/', // <-- THIS MUST BE EXACT
   server: {
     host: "::",
     port: 8080,
