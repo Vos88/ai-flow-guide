@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 import { viteStaticCopy } from 'vite-plugin-static-copy'; // 👈 Add this
 
 export default defineConfig(({ mode }) => ({
-  base: '/ai-flow-guide/',
+  base: '',
   server: {
     host: "::",
     port: 8080,
