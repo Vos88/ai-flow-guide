@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://vos88.github.io/ai-flow-guide",
+  "homepage": "https://vos88.github.io/ai-flow-guide/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
